@@ -1,0 +1,1 @@
+The Airline Management System is a Java-based project that provides a comprehensive solution for managing airline operations. It includes features for handling flights, passengers, reservations, and other essential aspects of airline management.
